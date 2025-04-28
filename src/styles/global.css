@@ -49,7 +49,15 @@ main {
   margin: auto;
   padding: 3em 1em;
 }
-h1,
+
+.bg{
+  background: linear-gradient(to bottom, #FFC3AF, #F9E9C9);
+}
+
+h1{
+  color:#4B1605;
+}
+
 h2,
 h3,
 h4,
